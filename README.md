@@ -1,8 +1,5 @@
 # homebrew-doomterm
 
-> **Setup pending:** the first release has not yet been promoted. The install commands below work
-> once the generated cask appears in `Casks/`.
-
 [Homebrew](https://brew.sh) tap for [Doom Term](https://github.com/CMLeadmon/Doom-Term).
 
 ```sh
