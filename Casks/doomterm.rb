@@ -1,6 +1,6 @@
 cask "doomterm" do
-  version "1.1.8"
-  sha256 "4cd3ee9a34c133eeb6332281686d1ea16a5cada27de49885c33a8f1f5be19bcb"
+  version "1.1.9"
+  sha256 "86de299e88f12e8ae72e71129c22a0abc9acaae24316dc8466ffb718f3a8233d"
 
   url "https://github.com/CMLeadmon/Doom-Term/releases/download/v#{version}/doomterm-macos-arm64.zip"
   name "Doom Term"
